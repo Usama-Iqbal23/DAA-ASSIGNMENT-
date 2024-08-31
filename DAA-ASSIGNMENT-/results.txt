@@ -1,0 +1,40 @@
+=========================
+Execution Time: 1725095505
+=========================
+
+Insertion Sort on data_1000.txt:
+Running time: 0.0036124 seconds
+Number of operations: 248605
+
+Selection Sort on data_1000.txt:
+Running time: 0.0062886 seconds
+Number of operations: 499500
+
+Bubble Sort on data_1000.txt:
+Running time: 0.017553 seconds
+Number of operations: 497355
+
+Insertion Sort on data_5000.txt:
+Running time: 0.215547 seconds
+Number of operations: 6164938
+
+Selection Sort on data_5000.txt:
+Running time: 0.204906 seconds
+Number of operations: 12497500
+
+Bubble Sort on data_5000.txt:
+Running time: 0.286939 seconds
+Number of operations: 12493035
+
+Insertion Sort on data_10000.txt:
+Running time: 0.208504 seconds
+Number of operations: 24987894
+
+Selection Sort on data_10000.txt:
+Running time: 0.455912 seconds
+Number of operations: 49995000
+
+Bubble Sort on data_10000.txt:
+Running time: 0.789651 seconds
+Number of operations: 49968204
+
